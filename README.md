@@ -124,3 +124,4 @@ The software is provided under Apache-2.0 license. Contributions to this project
 
 This project contains code from other projects. The original license text is included in those source files. They must comply with our license guide.
 # Temperature-sensor
+# Temperature-sensor
